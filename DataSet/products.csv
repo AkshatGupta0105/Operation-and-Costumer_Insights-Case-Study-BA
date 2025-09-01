@@ -1,0 +1,501 @@
+product_id,category,product_name,price
+1,Beverages,Order,43.56
+2,Grocery,Participant,239.6
+3,Dairy,Oil,49.33
+4,Personal Care,Consider,444.36
+5,Beverages,Hair,454.82
+6,Beverages,Success,352.29
+7,Dairy,Safe,305.66
+8,Beverages,Probably,182.7
+9,Grocery,In,177.45
+10,Beverages,Report,129.03
+11,Dairy,Part,358.03
+12,Snacks,Commercial,14.7
+13,Snacks,Support,463.18
+14,Beverages,Recent,281.77
+15,Snacks,Cause,99.73
+16,Beverages,Attorney,296.2
+17,Grocery,Would,246.59
+18,Dairy,Phone,437.75
+19,Grocery,Commercial,87.34
+20,Grocery,Black,200.53
+21,Grocery,Culture,353.36
+22,Snacks,Owner,437.29
+23,Household,Affect,449.18
+24,Household,Over,124.25
+25,Dairy,Else,292.08
+26,Grocery,Party,178.79
+27,Snacks,Early,149.63
+28,Personal Care,Three,84.51
+29,Beverages,Finish,282.84
+30,Household,Bring,58.71
+31,Personal Care,Yeah,60.88
+32,Personal Care,Quickly,230.39
+33,Household,Heart,273.86
+34,Beverages,Answer,460.69
+35,Grocery,Investment,371.94
+36,Beverages,Else,106.97
+37,Household,Drive,201.96
+38,Beverages,But,197.8
+39,Household,Range,468.97
+40,Grocery,Mind,382.73
+41,Personal Care,Nation,76.66
+42,Personal Care,Republican,56.78
+43,Grocery,Success,328.11
+44,Grocery,Summer,173.73
+45,Household,Manage,240.29
+46,Snacks,Those,145.27
+47,Household,Unit,161.9
+48,Dairy,Two,204.3
+49,Personal Care,We,163.58
+50,Beverages,Generation,186.1
+51,Household,Truth,366.08
+52,Household,Though,16.44
+53,Beverages,Meeting,148.23
+54,Grocery,Him,124.96
+55,Household,If,334.42
+56,Dairy,Gun,136.5
+57,Dairy,Student,133.83
+58,Grocery,Senior,303.42
+59,Household,Race,23.37
+60,Snacks,Chair,125.14
+61,Snacks,Yard,191.54
+62,Dairy,Statement,431.38
+63,Household,Draw,221.83
+64,Household,Happy,259.05
+65,Personal Care,Accept,450.28
+66,Snacks,Share,189.22
+67,Dairy,Concern,205.97
+68,Snacks,Party,81.68
+69,Household,Friend,95.27
+70,Beverages,Prove,299.27
+71,Personal Care,Be,235.12
+72,Grocery,Same,273.97
+73,Household,Our,110.79
+74,Dairy,Provide,46.58
+75,Snacks,Accept,171.01
+76,Household,Generation,480.85
+77,Household,Paper,459.0
+78,Personal Care,Would,282.48
+79,Beverages,Rise,256.61
+80,Snacks,Watch,426.07
+81,Beverages,Rich,449.69
+82,Grocery,Far,139.21
+83,Beverages,Simply,237.05
+84,Beverages,Manager,454.41
+85,Household,Exist,476.66
+86,Grocery,Many,53.04
+87,Dairy,Notice,368.22
+88,Personal Care,Feeling,230.21
+89,Snacks,Hot,469.14
+90,Household,Music,93.69
+91,Household,Gun,429.59
+92,Personal Care,Near,494.26
+93,Beverages,Beyond,308.76
+94,Grocery,Certain,204.48
+95,Personal Care,Thing,212.47
+96,Dairy,Fine,276.76
+97,Personal Care,Nature,486.05
+98,Snacks,Resource,413.56
+99,Household,Art,282.45
+100,Grocery,End,12.44
+101,Dairy,Activity,268.35
+102,Dairy,Five,301.89
+103,Grocery,Discuss,474.08
+104,Grocery,Yet,19.96
+105,Dairy,Personal,225.99
+106,Grocery,Candidate,90.23
+107,Grocery,Husband,294.08
+108,Beverages,Great,275.01
+109,Beverages,Toward,260.95
+110,Personal Care,People,406.22
+111,Household,Role,424.51
+112,Personal Care,Positive,243.12
+113,Beverages,Because,355.19
+114,Snacks,Different,146.62
+115,Grocery,Us,204.43
+116,Grocery,Watch,440.53
+117,Beverages,Show,330.75
+118,Household,Type,412.16
+119,Grocery,Total,38.23
+120,Household,Attack,230.8
+121,Household,Southern,132.34
+122,Dairy,Upon,187.52
+123,Beverages,Training,147.27
+124,Household,Same,372.39
+125,Snacks,Budget,387.25
+126,Personal Care,Large,480.94
+127,Household,Meet,331.56
+128,Snacks,Wide,132.63
+129,Household,Happen,486.79
+130,Grocery,Process,397.23
+131,Dairy,Almost,434.4
+132,Beverages,Level,167.53
+133,Dairy,Forward,352.51
+134,Dairy,Control,92.61
+135,Snacks,Many,366.81
+136,Personal Care,Life,90.76
+137,Grocery,Describe,437.84
+138,Beverages,Degree,23.24
+139,Grocery,Start,51.99
+140,Snacks,Both,141.74
+141,Dairy,Maybe,109.18
+142,Personal Care,Like,490.86
+143,Beverages,Century,151.81
+144,Household,Newspaper,163.23
+145,Household,Three,280.18
+146,Dairy,Feel,425.26
+147,Beverages,Task,349.23
+148,Beverages,Also,35.6
+149,Beverages,Law,191.56
+150,Dairy,Table,490.97
+151,Grocery,Trouble,396.26
+152,Personal Care,Stay,75.48
+153,Grocery,Window,114.98
+154,Snacks,Give,34.28
+155,Grocery,Agency,393.08
+156,Snacks,East,76.03
+157,Beverages,Attention,313.31
+158,Snacks,Reality,473.81
+159,Dairy,Capital,214.8
+160,Grocery,Throw,368.85
+161,Grocery,Interview,21.06
+162,Grocery,Land,274.49
+163,Household,Maybe,334.92
+164,Snacks,Strong,286.76
+165,Dairy,Church,291.84
+166,Grocery,Answer,314.7
+167,Snacks,Key,79.68
+168,Household,Manage,99.16
+169,Beverages,Recognize,212.92
+170,Personal Care,Leave,101.6
+171,Household,Professional,320.59
+172,Personal Care,Traditional,205.18
+173,Personal Care,Our,190.67
+174,Personal Care,Could,83.12
+175,Grocery,Charge,211.65
+176,Snacks,Brother,216.05
+177,Grocery,Fear,285.1
+178,Snacks,Audience,387.45
+179,Snacks,Term,433.33
+180,Dairy,Southern,312.61
+181,Household,This,272.45
+182,Personal Care,Statement,351.07
+183,Personal Care,Arm,193.09
+184,Dairy,Record,479.76
+185,Household,Strong,191.75
+186,Dairy,Speech,441.08
+187,Personal Care,Experience,214.61
+188,Grocery,Develop,177.11
+189,Dairy,Add,241.3
+190,Dairy,However,496.7
+191,Household,Outside,176.18
+192,Snacks,Teacher,165.3
+193,Dairy,Defense,222.3
+194,Beverages,One,390.97
+195,Household,Arrive,95.35
+196,Beverages,Pull,27.57
+197,Dairy,Student,153.78
+198,Snacks,Next,469.04
+199,Household,Happen,391.18
+200,Household,Myself,169.73
+201,Household,Three,110.87
+202,Personal Care,Much,31.24
+203,Personal Care,Follow,61.92
+204,Snacks,Store,188.96
+205,Grocery,Watch,491.74
+206,Beverages,Growth,265.75
+207,Household,Development,278.32
+208,Snacks,Company,144.89
+209,Personal Care,Me,319.31
+210,Dairy,Before,239.86
+211,Grocery,Get,126.05
+212,Grocery,Lot,17.55
+213,Household,Kid,489.28
+214,Personal Care,Ball,491.43
+215,Snacks,First,11.01
+216,Beverages,Say,424.2
+217,Household,Civil,223.21
+218,Household,Likely,255.73
+219,Beverages,Even,348.75
+220,Grocery,Thought,150.15
+221,Grocery,Worker,345.34
+222,Personal Care,Answer,259.38
+223,Grocery,Future,286.7
+224,Personal Care,Front,177.79
+225,Grocery,Stock,236.19
+226,Household,Budget,175.7
+227,Dairy,Question,487.47
+228,Grocery,Reality,117.57
+229,Household,Father,110.09
+230,Dairy,And,443.77
+231,Snacks,Source,187.91
+232,Snacks,Mention,122.36
+233,Personal Care,Picture,106.51
+234,Household,Crime,22.8
+235,Dairy,Would,468.29
+236,Beverages,Himself,105.91
+237,Snacks,Range,411.35
+238,Beverages,Property,208.58
+239,Household,Low,275.08
+240,Dairy,Heart,131.28
+241,Personal Care,Manage,113.49
+242,Personal Care,Talk,231.6
+243,Household,Event,99.25
+244,Snacks,Total,165.61
+245,Grocery,Article,336.0
+246,Beverages,Ask,282.89
+247,Household,Partner,71.88
+248,Snacks,End,56.39
+249,Dairy,Dark,335.81
+250,Beverages,Before,372.26
+251,Household,Outside,257.97
+252,Dairy,Gun,350.44
+253,Snacks,Sense,66.08
+254,Beverages,Experience,72.66
+255,Beverages,Rich,401.6
+256,Beverages,Stop,286.84
+257,Household,Billion,60.08
+258,Snacks,Two,72.73
+259,Household,Point,278.53
+260,Dairy,Drop,42.91
+261,Dairy,Five,490.98
+262,Beverages,Late,34.63
+263,Household,Get,273.66
+264,Grocery,Figure,456.19
+265,Personal Care,Hair,94.84
+266,Household,Carry,39.76
+267,Grocery,Actually,243.41
+268,Beverages,Design,392.17
+269,Beverages,Itself,250.65
+270,Snacks,Past,344.77
+271,Beverages,Bit,90.12
+272,Beverages,Scientist,194.85
+273,Grocery,Least,417.93
+274,Grocery,Seek,480.3
+275,Personal Care,Play,239.44
+276,Dairy,Agreement,419.79
+277,Grocery,When,375.79
+278,Beverages,Republican,73.04
+279,Household,Various,55.7
+280,Grocery,Cut,153.77
+281,Dairy,Attention,244.85
+282,Beverages,Movement,294.19
+283,Personal Care,Action,203.43
+284,Household,Inside,399.74
+285,Grocery,Part,243.23
+286,Beverages,Great,150.37
+287,Grocery,Wait,125.01
+288,Beverages,Discussion,333.25
+289,Snacks,Would,451.95
+290,Beverages,Opportunity,39.78
+291,Dairy,Food,90.11
+292,Household,Wife,400.45
+293,Beverages,Charge,381.14
+294,Snacks,You,292.98
+295,Personal Care,Walk,301.3
+296,Snacks,Wall,227.6
+297,Dairy,Cost,49.22
+298,Snacks,Born,496.81
+299,Snacks,And,19.68
+300,Dairy,International,253.73
+301,Dairy,Threat,16.95
+302,Personal Care,Indicate,473.0
+303,Grocery,New,109.44
+304,Personal Care,Bad,133.16
+305,Personal Care,Clearly,180.27
+306,Household,Debate,45.15
+307,Snacks,Goal,332.92
+308,Dairy,Nor,261.46
+309,Snacks,Sort,444.11
+310,Beverages,Worry,455.47
+311,Household,As,346.67
+312,Dairy,Resource,67.59
+313,Grocery,Indeed,312.44
+314,Dairy,Concern,359.86
+315,Snacks,Rest,342.8
+316,Beverages,Administration,430.13
+317,Grocery,Coach,367.75
+318,Personal Care,Read,203.53
+319,Grocery,Future,127.49
+320,Beverages,Explain,110.18
+321,Snacks,Their,171.89
+322,Personal Care,Bag,149.65
+323,Dairy,Nearly,330.41
+324,Snacks,When,404.22
+325,Snacks,Left,369.77
+326,Personal Care,Third,88.37
+327,Grocery,Court,368.67
+328,Snacks,Answer,427.24
+329,Grocery,Subject,171.43
+330,Household,Hear,236.14
+331,Grocery,Ahead,232.34
+332,Household,Group,326.48
+333,Household,Republican,317.44
+334,Beverages,Including,264.16
+335,Personal Care,Soon,306.54
+336,Beverages,Fill,123.9
+337,Snacks,Who,192.05
+338,Personal Care,Green,231.44
+339,Household,Everything,159.05
+340,Beverages,House,277.61
+341,Dairy,Lawyer,433.22
+342,Beverages,Debate,208.66
+343,Dairy,Mission,48.01
+344,Dairy,Figure,203.98
+345,Snacks,Threat,368.62
+346,Snacks,Hundred,118.72
+347,Beverages,Name,350.91
+348,Household,Grow,203.17
+349,Household,Thousand,399.32
+350,Grocery,Politics,350.26
+351,Dairy,Stay,474.91
+352,Grocery,Allow,388.11
+353,Beverages,Including,23.85
+354,Personal Care,Address,95.66
+355,Dairy,Contain,368.04
+356,Beverages,Perform,450.16
+357,Dairy,Again,424.9
+358,Household,Customer,412.74
+359,Household,Investment,240.47
+360,Personal Care,Very,212.13
+361,Snacks,Break,397.61
+362,Beverages,Class,485.24
+363,Household,Time,317.22
+364,Dairy,West,449.66
+365,Household,Cultural,316.41
+366,Household,Itself,129.21
+367,Personal Care,Kitchen,480.49
+368,Grocery,Over,130.4
+369,Household,Simply,228.53
+370,Personal Care,Science,316.43
+371,Dairy,Natural,122.71
+372,Personal Care,Member,37.76
+373,Dairy,Field,39.81
+374,Grocery,Back,430.63
+375,Household,It,49.72
+376,Grocery,As,352.78
+377,Personal Care,Drop,273.23
+378,Dairy,Current,481.89
+379,Beverages,Scene,335.29
+380,Snacks,Since,54.57
+381,Household,Product,474.93
+382,Beverages,Speech,28.49
+383,Grocery,Power,234.56
+384,Snacks,Account,301.37
+385,Snacks,Plan,304.43
+386,Grocery,Put,90.12
+387,Beverages,Bad,360.23
+388,Personal Care,Toward,144.25
+389,Snacks,Such,413.42
+390,Dairy,Democratic,171.64
+391,Household,Experience,264.13
+392,Grocery,Nor,423.88
+393,Personal Care,Once,278.68
+394,Grocery,Hundred,67.64
+395,Household,Just,236.11
+396,Grocery,Pm,352.35
+397,Dairy,Daughter,115.67
+398,Beverages,Bad,459.97
+399,Snacks,Serious,271.41
+400,Personal Care,Attention,281.3
+401,Dairy,Congress,117.23
+402,Household,Chair,308.36
+403,Household,Brother,372.68
+404,Beverages,Alone,357.7
+405,Beverages,Wait,481.03
+406,Snacks,Assume,397.72
+407,Dairy,Create,108.03
+408,Snacks,Total,449.53
+409,Personal Care,Mention,319.56
+410,Snacks,Film,38.93
+411,Dairy,Different,98.87
+412,Grocery,House,412.25
+413,Dairy,Win,19.41
+414,Dairy,He,273.67
+415,Snacks,One,22.68
+416,Personal Care,Throughout,284.13
+417,Dairy,Indicate,232.09
+418,Snacks,Practice,436.14
+419,Personal Care,Cup,215.3
+420,Beverages,Congress,64.79
+421,Snacks,Head,438.94
+422,Snacks,Action,336.39
+423,Snacks,Care,126.54
+424,Grocery,Memory,43.94
+425,Grocery,Series,423.38
+426,Grocery,Across,392.52
+427,Personal Care,Development,27.24
+428,Grocery,Read,176.1
+429,Dairy,You,375.82
+430,Beverages,Second,208.92
+431,Personal Care,Phone,247.15
+432,Grocery,Major,315.07
+433,Dairy,Different,241.63
+434,Snacks,Reach,139.6
+435,Grocery,Stop,300.42
+436,Beverages,Bar,159.88
+437,Personal Care,Week,224.38
+438,Beverages,Test,186.23
+439,Household,Memory,230.33
+440,Beverages,Receive,410.46
+441,Snacks,End,68.18
+442,Snacks,Data,71.28
+443,Dairy,Carry,213.07
+444,Beverages,Case,76.45
+445,Grocery,Get,128.01
+446,Personal Care,Full,361.67
+447,Dairy,Six,88.4
+448,Household,Realize,65.28
+449,Household,Happen,51.59
+450,Dairy,Event,476.3
+451,Dairy,Its,437.34
+452,Household,Audience,66.6
+453,Beverages,Employee,97.56
+454,Snacks,To,380.86
+455,Grocery,Director,140.87
+456,Dairy,At,134.59
+457,Household,Focus,302.82
+458,Beverages,Main,45.58
+459,Beverages,Brother,241.14
+460,Snacks,The,124.41
+461,Snacks,Than,254.65
+462,Grocery,Whose,254.45
+463,Household,Somebody,116.0
+464,Beverages,Real,415.51
+465,Personal Care,Activity,464.74
+466,Grocery,Idea,421.68
+467,Dairy,Ten,98.15
+468,Dairy,Contain,211.11
+469,Personal Care,Tree,111.35
+470,Snacks,Man,32.83
+471,Grocery,Apply,401.76
+472,Dairy,East,182.6
+473,Dairy,Hand,157.59
+474,Dairy,Simply,64.66
+475,Grocery,One,189.21
+476,Beverages,Election,451.85
+477,Household,Eight,59.74
+478,Dairy,Within,20.62
+479,Grocery,Think,11.96
+480,Dairy,Range,99.53
+481,Beverages,Candidate,131.1
+482,Grocery,Culture,307.47
+483,Dairy,Whether,425.15
+484,Snacks,Community,137.08
+485,Beverages,Front,175.77
+486,Personal Care,Performance,413.26
+487,Snacks,Market,383.13
+488,Household,Few,440.49
+489,Household,Cover,24.25
+490,Grocery,Almost,222.45
+491,Personal Care,Today,342.44
+492,Dairy,House,162.54
+493,Grocery,I,246.56
+494,Dairy,Section,49.03
+495,Dairy,Hear,372.2
+496,Beverages,Military,264.23
+497,Personal Care,Every,404.4
+498,Grocery,Indicate,368.29
+499,Dairy,Year,384.31
+500,Household,Stage,40.63
