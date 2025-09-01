@@ -2,7 +2,7 @@
 
 [![SQL](https://img.shields.io/badge/SQL-Query%20Analysis-blue)](https://www.mysql.com/)
 [![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange)](https://en.wikipedia.org/wiki/Business_intelligence)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A detailed **Exploratory Data Analysis (EDA)** and **Business Intelligence** case study performed using **SQL** on an anonymized dataset simulating a real-world food and grocery delivery platform. The project focuses on extracting key performance indicators (KPIs) to solve critical business problems and provide strategic recommendations.
 
